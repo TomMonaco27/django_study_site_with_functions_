@@ -1,0 +1,10 @@
+------------------------------
+выгрузка данных json
+------------------------------
+python manage.py dumpdata products.ProductCategory > 
+python manage.py dumpdata products.Product > product.json
+------------------------------
+загрузка данных в БД
+------------------------------
+python manage.py loaddata products/fixtures/categories.json
+python manage.py loaddata products/fixtures/product.json

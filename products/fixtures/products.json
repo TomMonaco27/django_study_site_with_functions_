@@ -1,0 +1,23 @@
+[
+    {
+        "category": "Одежда",
+        "name": "Худи черного цвета с монограммами adidas Originals",
+		"description": "Мягкая ткань для свитшотов. Стиль и комфорт – это образ жизни.",
+        "image": "vendor/img/products/Adidas-hoodie.png",
+        "price": "6 090"
+    },
+    {
+        "category": "Одежда",
+        "name": "Синяя куртка The North Face",
+		"description": "Гладкая ткань. Водонепроницаемое покрытие. Легкий и теплый пуховый наполнитель.",
+        "image": "vendor/img/products/Blue-jacket-The-North-Face.png",
+        "price": "23 725"
+    },
+	{
+        "category": "Одежда",
+        "name": "Коричневый спортивный oversized-топ ASOS DESIG",
+		"description": "Материал с плюшевой текстурой. Удобный и мягкий.",
+        "image": "vendor/img/products/Brown-sports-oversized-top-ASOS-DESIGN.png",
+        "price": "3 390"
+    }
+]
